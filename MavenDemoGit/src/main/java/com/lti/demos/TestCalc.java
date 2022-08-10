@@ -9,5 +9,9 @@ public class TestCalc {
 		
 		System.out.println(a.add(20, 10));
 		System.out.println(a.sub(20, 10));
+		
+		Products p = new Products(2,3);
+		
+		System.out.println("The line is added");
 	}
 }
