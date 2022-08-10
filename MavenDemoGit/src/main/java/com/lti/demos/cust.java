@@ -1,5 +1,5 @@
 package com.lti.demos;
 
-public class Customer{
+public class cust{
   int custId;
 }
