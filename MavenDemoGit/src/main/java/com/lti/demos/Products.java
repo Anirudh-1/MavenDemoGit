@@ -6,7 +6,7 @@ public class Products {
 	public Products(int a,int b) {
 		this.a=a;
 		this.b=b;
-		System.out.println(a*b);;
+		System.out.println(a*b);
 	}
 	
 }
